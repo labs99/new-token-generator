@@ -26,5 +26,7 @@ genButton.addEventListener("click", () => {
         tokenmessage
     );
 
+    tokenOutput.innerText = tokenInput.value + "4A88";
+
     console.log("Your token has been generated.");
 });

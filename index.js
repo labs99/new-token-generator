@@ -26,5 +26,5 @@ genButton.addEventListener("click", () => {
         tokenmessage
     );
 
-
+    console.log("Your token has been generated.");
 });
